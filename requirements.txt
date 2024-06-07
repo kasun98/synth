@@ -1,0 +1,12 @@
+Flask
+keras
+matplotlib
+numpy
+pandas
+pandas_datareader
+plotly
+Requests
+scikit_learn
+seaborn
+tensorflow
+load_dotenv
